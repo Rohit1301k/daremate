@@ -1,0 +1,57 @@
+[
+  {
+    "room_id": "H8DXFM",
+    "host_nickname": "hello",
+    "type": "partner",
+    "categories": [
+      "funny"
+    ],
+    "created_at": "2025-05-24T07:22:56.958Z",
+    "active": true,
+    "id": "mb1wkawvklxkv"
+  },
+  {
+    "room_id": "UVU1LR",
+    "host_nickname": "kaise ",
+    "type": "partner",
+    "categories": [
+      "funny"
+    ],
+    "created_at": "2025-05-24T08:36:51.975Z",
+    "active": true,
+    "id": "mb1z7czsd9a4y"
+  },
+  {
+    "room_id": "0WB1OX",
+    "host_nickname": "Mase ",
+    "type": "partner",
+    "categories": [
+      "funny"
+    ],
+    "created_at": "2025-05-24T09:17:01.185Z",
+    "active": true,
+    "id": "mb20mzy9kho85"
+  },
+  {
+    "room_id": "GGHFDI",
+    "host_nickname": "Gf",
+    "type": "partner",
+    "categories": [
+      "funny"
+    ],
+    "created_at": "2025-05-24T09:20:57.629Z",
+    "active": true,
+    "id": "mb20s2e6ozc5b"
+  },
+  {
+    "room_id": "UQBVGN",
+    "host_nickname": "Test 4",
+    "type": "partner",
+    "categories": [
+      "funny"
+    ],
+    "created_at": "2025-05-24T09:21:37.547Z",
+    "active": true,
+    "id": "mb20sx7202gcv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "room_id": "0WB1OX",
+    "nickname": "Mase ",
+    "is_host": true,
+    "joined_at": "2025-05-24T09:17:01.208Z",
+    "active": true,
+    "id": "mb20mzywq2qj3"
+  },
+  {
+    "room_id": "0WB1OX",
+    "nickname": "g",
+    "is_host": false,
+    "joined_at": "2025-05-24T09:19:44.754Z",
+    "active": true,
+    "id": "mb20qi5u1vfk2"
+  },
+  {
+    "room_id": "GGHFDI",
+    "nickname": "Gf",
+    "is_host": true,
+    "joined_at": "2025-05-24T09:20:57.639Z",
+    "active": true,
+    "id": "mb20s2efcuud4"
+  },
+  {
+    "room_id": "UQBVGN",
+    "nickname": "Test 4",
+    "is_host": true,
+    "joined_at": "2025-05-24T09:21:37.564Z",
+    "active": true,
+    "id": "mb20sx7gmjkyb"
+  }
+]
